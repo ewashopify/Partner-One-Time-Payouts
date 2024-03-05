@@ -1,10 +1,12 @@
 ---
 name: Request Partner One Time Payout
-about: Describe this issue template's purpose here.
+about: The one time partner payout will issue payouts via the billing adjustment tool.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
+Single Partner Payout: 
 
+Multi Partner Payout
