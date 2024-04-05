@@ -3,7 +3,7 @@ name: Request Partner One Time Payout
 about: The one time partner payout will issue payouts via the billing adjustment tool.
 title: 'Promotion Name: Month: Year:'
 labels: One Time Payout
-assignees: ewashopify
+assignees: ewashopify, NirubanArul
 
 ---
 
